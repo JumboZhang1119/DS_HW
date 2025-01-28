@@ -1,2 +1,2 @@
-# DS_HW
+# Data Structure
 Homeworks of the course "Data Structure"
